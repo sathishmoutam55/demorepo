@@ -21,7 +21,6 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "this connection is to create the parameter files in the particular folder",
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
